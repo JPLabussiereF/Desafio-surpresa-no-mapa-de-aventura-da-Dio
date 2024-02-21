@@ -9,7 +9,7 @@ Crie um código para armazenar o máximo de informações possível dos pokemon 
 EXEMPLO:
 "DRAGONITE Cadastrado com sucesso"
 
-REGRAS
+REGRAS:
 
 > Você pode utilizar Javascript ou qualquer outra linguagem da sua preferência
 Você pode utilizar o playcode.io ou qualquer outra ide da sua preferência
