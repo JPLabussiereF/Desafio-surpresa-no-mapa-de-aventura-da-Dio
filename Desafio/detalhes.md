@@ -10,5 +10,7 @@ EXEMPLO:
 REGRAS:
 
 > Utilizar Javascript ou qualquer outra linguagem da sua preferência
+> 
 > Utilizar o playcode.io ou qualquer outra ide da sua preferência
+> 
 > Ao final deve submeter o código aqui na plataforma da dio clicando em "entregar projeto"
